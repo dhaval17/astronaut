@@ -1,0 +1,19 @@
+{
+  "name": "astronaut",
+  "version": "1.0.0",
+  "description": "![astronaut](https://github.com/dhaval17/astronaut/raw/assets/icon.png)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhaval17/astronaut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhaval17/astronaut/issues"
+  },
+  "homepage": "https://github.com/dhaval17/astronaut#readme"
+}
